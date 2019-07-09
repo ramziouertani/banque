@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "fnac.api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'fnac.api.url'"
+  },
+  {
+    "name": "fnac.api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'fnac.api.url'"
+  },
+  {
+    "name": "fnac.api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'fnac.api.url'"
+  }
+]}
